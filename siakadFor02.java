@@ -21,8 +21,6 @@ public class siakadFor02 {
                 notpass++;
             }
             
-            
-
         }
         if (pass >= 1){
             System.out.println("student that pass: " + pass );
